@@ -1,3 +1,5 @@
 print("Proud")
 print("to be an Indian")
 print("AI Engineer")
+print("Stashing yahoo")
+print("Stashing google")
